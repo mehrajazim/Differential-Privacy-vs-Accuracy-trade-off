@@ -1,0 +1,1 @@
+This was my thesis on how adding differential privacy affects accuracy of the models. The aim of my thesis was to find how much noise gives the best accuracy and as well as privacy on the models, I wanted to find the sweet-spot between accuracy and privacy of the models.
